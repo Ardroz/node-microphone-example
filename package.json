@@ -1,0 +1,14 @@
+{
+  "name": "node-microphone-example",
+  "version": "1.0.0",
+  "description": "Node microphone example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ardroz",
+  "license": "ISC",
+  "dependencies": {
+    "microphone": "^1.0.8"
+  }
+}
